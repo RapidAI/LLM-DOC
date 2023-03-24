@@ -1,7 +1,7 @@
 
 
 
-# RapidAI 大模型工程研究院 资料馆
+# RapidAI 大模型工程应用研究院 资料馆
 
 #### BELLE:  https://github.com/LianjiaTech/BELLE
 
