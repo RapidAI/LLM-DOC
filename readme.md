@@ -9,7 +9,8 @@ ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型�
 4. 模型hf体验地址（推荐）：https://huggingface.co/spaces/ClueAI/ChatYuan-large-v2
 5. 模型ms体验地址（暂时有问题）：https://modelscope.cn/studios/ClueAI/ChatYuan-large-v2/summary
 
-
+### Paper
+[论文列表](paper.md)
 
 ##  支持中文的大模型列表  
 - [中文开源大模型](llm.md)
