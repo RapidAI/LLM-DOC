@@ -9,7 +9,6 @@ ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型�
 4. 模型hf体验地址（推荐）：https://huggingface.co/spaces/ClueAI/ChatYuan-large-v2
 5. 模型ms体验地址（暂时有问题）：https://modelscope.cn/studios/ClueAI/ChatYuan-large-v2/summary
 
-
 ### 思路
 
 [大模型应用思路](idea.md)
@@ -23,3 +22,9 @@ ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型�
 ### 输入输出模块
 
 -  ASR [RapidASR](https://github.com/RapidAI/rapidasr)
+
+
+
+### 可训练项目
+
+- [ChatGLM-Tuning](https://github.com/RapidAI/ChatGLM-Tuning)
