@@ -28,3 +28,4 @@ ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型�
 ### 可训练项目
 
 - [ChatGLM-Tuning](https://github.com/RapidAI/ChatGLM-Tuning)
+- [FastChat](https://github.com/lm-sys/FastChat)  [Demo](https://chat.lmsys.org)
